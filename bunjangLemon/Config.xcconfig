@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  bunjangLemon
+//
+//  Created by 이수환 on 2023/03/04.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+KAKAO_NATIVE_APP_KEY = d47e270c9db534f92c5d295011c4c81b
+
+
